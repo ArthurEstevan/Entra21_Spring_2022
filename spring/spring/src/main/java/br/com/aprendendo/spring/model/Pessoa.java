@@ -1,6 +1,6 @@
 package br.com.aprendendo.spring.model;
 
-public class Pessoa extends MaturidadeNivel3Richardson {
+public class Pessoa extends Usuario {
 
 	// =================== Atributos
 	private String nome;
